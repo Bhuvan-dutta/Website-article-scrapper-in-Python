@@ -314,7 +314,7 @@ class WEBSCRAPPING(object):
 if __name__ == '__main__':
     
     data_useful=[]
-    url='https://docs.bmc.com/docs/digitalworkplaceadvanced/1911/building-and-configuring-an-environment-with-bmc-hr-case-management-multiple-tenants-891488658.html'
+    url='Provide your URL for fetching article data'
     argparser = argparse.ArgumentParser(description='Article crawler')
     argparser.add_argument('--url', help=url,default=url)
     argparser.add_argument('--export', help='json', default='json')
