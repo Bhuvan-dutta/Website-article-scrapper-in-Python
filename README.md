@@ -8,3 +8,4 @@ User_input=website URL need to be provided.It will extract the content of the ar
 
 Have different options for storing extracted data including json,database.
 
+You can make it dynamic accordingly to your requirements.You can add tags and remove tags.
